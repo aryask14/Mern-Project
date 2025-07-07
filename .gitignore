@@ -1,0 +1,5 @@
+"node_modules/" 
+".env" 
+".DS_Store" 
+"dist/"   # For build folders
+"*.log"   # For log files
