@@ -3,3 +3,4 @@
 ".DS_Store" 
 "dist/"   # For build folders
 "*.log"   # For log files
+"server/.env" 
